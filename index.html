@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Putting the T & E in STEM</title>
+
+		<link rel="stylesheet" href="reveal.js/dist/reveal.css">
+		<link rel="stylesheet" href="moon.css" id="theme">
+
+        <link rel="stylesheet" href="reveal.js/plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div class="slides">
+
+                <!-- Slides are separated by three dashes (the default) -->
+                <section data-markdown>
+                    <script type="text/template">
+                        # Putting the <br/>**T** & **E** in STEM
+                        Alistair Knight<br/>
+                        <small><span style="color: #93a1a1;">Technologies Teacher, Thomas More College</span></small>
+                    </script>
+                </section>
+
+                <!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
+                <section data-markdown="s-t-e-m.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+                <section data-markdown="skills.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+                <section data-markdown="algorithms.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+                <section data-markdown="data.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+                <section data-markdown="tasks.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+            </div>
+		</div>
+
+		<script src="reveal.js/dist/reveal.js"></script>
+        <script src="reveal.js/plugin/markdown/markdown.js"></script>
+        <script src="reveal.js/plugin/highlight/highlight.js"></script>
+        <script src="reveal.js/plugin/notes/notes.js"></script>
+        <script src="reveal.js/plugin/math/math.js"></script>
+
+		<script>
+			const controlChannel = new BroadcastChannel('controller');
+    		let remoteSlide = { indexh: -1, indexv: -1 };
+    
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
+			});
+
+			Reveal.addEventListener('slidechanged', function (event) {
+				if (remoteSlide.indexh !== event.indexh || remoteSlide.indexv !== event.indexv) {
+					remoteSlide = { indexh: -1, indexv: -1 };
+					controlChannel.postMessage({
+						"indexh": event.indexh,
+						"indexv": event.indexv
+					});
+				}
+			});
+			controlChannel.onmessage = function (event) {
+				remoteSlide = event.data;
+				Reveal.slide(event.data.indexh, event.data.indexv);
+			}
+		</script>
+
+	</body>
+</html>
