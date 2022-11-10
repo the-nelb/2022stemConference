@@ -1,3 +1,14 @@
+<img style="float: right; max-width: 20rem;" src="qrCode.png" />
+<h2>Putting the <br/><b>T</b> & <b>E</b> in STEM</h2>
+
+Alistair Knight
+<span style="color: #93a1a1;"><br/> Technologies Teacher<br/> Thomas More College</span>
+<hr/>
+
+<small>`https://the-nelb.github.io/2022stemConference/`</small>
+
+
+
 *While often associated with the university sector, the report [Australia’s STEM Workforce](https://www.chiefscientist.gov.au/news-and-media/2020-australias-stem-workforce-report), released by the Office of the Chief Scientist on Australia’s STEM workforce shows that the vocational education and training (VET) sector provides more than two thirds of Australia’s STEM workforce.*
 
 &mdash; [Australian Industry and Skills Committee (Mar '22)](https://nationalindustryinsights.aisc.net.au/national/stem-skills)
