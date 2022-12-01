@@ -80,13 +80,13 @@ Effective STEM learning requires you to *analyze information*, *evaluate* design
 
 <!-- .slide: data-auto-animate -->
 #### Big ticket items
-## Data
+## Data literacy
 - collection
 - validation/scrutiny
 - analysis
 - visualisation/use
 
-Maths (Statistics), Digital Tech (Data representation)
+(HaSS, Maths: Statistics, DiT: Data representation, RP)
 
 
 <!-- .slide: data-auto-animate -->
@@ -99,18 +99,18 @@ Maths (Statistics), Digital Tech (Data representation)
 - collaborating and managing
 - **iteration**
 
-Straight out of D&T curriculum *processes and production skills*.
+(D&T, DiT, Art/Design)
 
 
 <!-- .slide: data-auto-animate -->
 #### Big ticket items
 ## Normalising failure
-- Mostly "not working" most of the time.
+- "Broken", "not understood", "not working" is the status quo.
 - Once "working", we move onto the next part of the problem, and now it's not working again!
 - Creativity is stifled by stigmatisation of failure.
 - Design processes are also stifled by the stigmatisation of failure.
-- Generally not a "right answer".
-- Generally can't know if you've found the best answer (but it isn't relevant, anyway).
+
+(HPE and sports, Music, Art/Design, D&T, DiT, Maths)
 
 
 <!-- .slide: data-auto-animate -->
@@ -123,6 +123,8 @@ Straight out of D&T curriculum *processes and production skills*.
 - wrestling with competing ideas
 - holding an argument
 
+(HPE, ensemble music, Pedal Prix, plays/musicals, debating, groupwork)
+
 
 <!-- .slide: data-auto-animate -->
 #### Big ticket items
@@ -130,6 +132,8 @@ Straight out of D&T curriculum *processes and production skills*.
 - Using computers effectively to minimise human work
 - Understanding the limitations of digital systems
 - Ethics and citizenship issues which emerge through computer-centric society
+
+(everything?)
 
 Note: 
 - Using computers effectively to minimise human work
@@ -140,8 +144,7 @@ Note:
     - Anonymity/identity, private/public data expectations, scale of online attacks/clashes vs in-person ones
 
 
-
-[Lego 7 most imoportant STEM skills](https://www.weareteachers.com/important-stem-skills-teaching-kids/)
+[Lego 7 most important STEM skills](https://www.weareteachers.com/important-stem-skills-teaching-kids/)
 
 [Minnisota State Uni](https://careerwise.minnstate.edu/careers/stemskills.html)
 

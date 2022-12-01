@@ -1,17 +1,20 @@
-# Understanding data
+# Data literacy
+
+
+![Cohort vs age effects](https://imgs.xkcd.com/comics/cohort_and_age_effects.png)
+
+
+![Husbands](https://imgs.xkcd.com/comics/extrapolating.png)
+
+
+![Correlation](https://imgs.xkcd.com/comics/correlation.png)
+
 
 - Who collected it, and why?
 - How was it collected?
 - How much was there, and how representative is it?
-
-
-
-## Gapminder challenge
-- [Indonesia](https://upgrader.gapminder.org/t/indonesia/)
-- [Timor-Leste](https://upgrader.gapminder.org/t/timor-leste/)
-- [New Zealand](https://upgrader.gapminder.org/t/new-zealand/)
-- [North Korea](https://upgrader.gapminder.org/t/north-korea/)
-
+- What story is it telling?
+- What's missing from the story?
 
 
 Mona Chalabi - data collection
@@ -22,5 +25,9 @@ Mona Chalabi - data collection
 3. How was the data collected?
 
 
-
 ![](https://i0.wp.com/wp.stolaf.edu/it/files/2017/06/precsionvsaccuracy_crashcourse.png?resize=579%2C600&ssl=1)
+
+
+<!-- .slide: data-background-color="#c0c0c0" -->
+![](https://i0.wp.com/adsei.org/wp-content/uploads/2021/07/cropped-adsei-banner-lge-horiz.png?fit=1852%2C582&ssl=1)
+[https://adsei.org](https://adsei.org)

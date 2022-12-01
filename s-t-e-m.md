@@ -9,6 +9,17 @@ Alistair Knight
 
 
 
+###### Summary
+- *Technology* is the output
+- *Engineering* is covered in the Technologies curriculum
+---
+STEM:
+- builds on existing science/maths study; it doesn't replace it
+- is about *using* science/maths skills, not *building* them
+- is about *solving problems*
+- can be developed across the school curriculum
+
+
 *While often associated with the university sector, the report [Australia’s STEM Workforce](https://www.chiefscientist.gov.au/news-and-media/2020-australias-stem-workforce-report), released by the Office of the Chief Scientist on Australia’s STEM workforce shows that the vocational education and training (VET) sector provides more than two thirds of Australia’s STEM workforce.*
 
 &mdash; [Australian Industry and Skills Committee (Mar '22)](https://nationalindustryinsights.aisc.net.au/national/stem-skills)
@@ -16,7 +27,6 @@ Alistair Knight
 
 
 # Ingredients of STEM
-
 
 
 What are the ingredients?
@@ -51,6 +61,11 @@ When the zoology starts studying itself, you get
 
 And when it starts questioning its own motivations, you have
 ## Psychology <!-- .element: class="fragment" -->
+
+
+Apparently, [xkcd](https://xkcd.com/435) has noticed this too:
+
+![Fields in increasing order of purity](https://imgs.xkcd.com/comics/purity.png)
 
 
 
@@ -89,8 +104,8 @@ Technology is created to aid us in (some aspect of) life. Everybody uses technol
 
 
 Exercise:
-- What in this room *is* technology?
-- What in this room *isn't* technology?
+- <!-- .element: class="fragment" -->What in this room is technology?
+- <!-- .element: class="fragment" -->What in this room <em>isn't</em> technology?
 
 
 Because the whole point of technology is to be used to improve life, the **T** in STEM is not about *using* technology (that is assumed!); it is, rather, about *making* technology.
@@ -124,8 +139,10 @@ A better definition from
 
 
 
-In case you're looking for **Engineering** in the Australian Curriculum, it is covered in **Technologies**!
+So, is **Engineering** covered in the Australian Curriculum?
 
+Yes! It is in the **Technologies** curriculum.
+<!-- .element: class="fragment" -->
 
 
 What is the significance of the **T** and **E**?
@@ -134,35 +151,35 @@ What is the significance of the **T** and **E**?
 <!-- .slide: data-auto-animate -->
 &nbsp;
 
-<h1 style="display: inline;">S</h1>
-<h1 style="display: inline;">T</h1>
-<h1 style="display: inline;">E</h1>
-<h1 style="display: inline;">M</h1>
+<h1 style="display: inline-block;">S</h1>
+<h1 style="display: inline-block;">T</h1>
+<h1 style="display: inline-block;">E</h1>
+<h1 style="display: inline-block;">M</h1>
 
 
 <!-- .slide: data-auto-animate -->
 Without T & E you would just have ...
 
-<h1 style="display: inline;">S</h1>
-<h1 style="display: inline;">T</h1>
-<h1 style="display: inline;">E</h1>
-<h1 style="display: inline;">M</h1>
+<h1 style="display: inline-block;">S</h1>
+<h1 style="display: inline-block;">T</h1>
+<h1 style="display: inline-block;">E</h1>
+<h1 style="display: inline-block;">M</h1>
 
 
 <!-- .slide: data-auto-animate -->
 Without T & E you would just have ...
 
-<h1 style="display: inline;">S</h1>
-<h1 style="display: inline;">&</h1>
-<h1 style="display: inline;">M</h1>
+<h1 style="display: inline-block;">S</h1>
+<h1 style="display: inline-block;">&</h1>
+<h1 style="display: inline-block;">M</h1>
 
 
 <!-- .slide: data-auto-animate -->
 ... which is very different!
 
-<h1 style="display: inline;">S</h1>
-<h1 style="display: inline;">&</h1>
-<h1 style="display: inline;">M</h1>
+<h1 style="display: inline-block;">S</h1>
+<h1 style="display: inline-block;">&</h1>
+<h1 style="display: inline-block;">M</h1>
 
 
 

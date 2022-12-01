@@ -4,7 +4,7 @@
  */
 /* @import url(./fonts/league-gothic/league-gothic.css); */
 /* @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic); */
-@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@900&family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@900&family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&display=swap');
 /**
  * Solarized colors by Ethan Schoonover
  */
@@ -27,7 +27,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --r-main-color: #eee8d5;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: 'Cairo Play', Impact, sans-serif;
+  --r-heading-font: 'Cairo', Impact, sans-serif;
   --r-heading-color: #93a1a1;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;

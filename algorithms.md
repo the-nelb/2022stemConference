@@ -1,7 +1,6 @@
 # Algorithms
 
 
-
 ## Think-Do cycle
 Humans solve problems by iterating through a two-step process:
 1. they <em>think</em> about situation before them and determine the next action; then,
@@ -81,7 +80,7 @@ A **program** is an algorithm which has been *expressed in a programming languag
 
 
 An algorithm can be expressed:
-- pictorially (like a flowchart)
-- in natural language (like English or Hindi),
+- in a natural language (like English or Hindi),
+- graphically (like a flowchart),
 - in a structured formal language (like pseudocode or mathematics),
 - in a programming language (like Python, JavaScript, or Scratch).
